@@ -4,7 +4,7 @@
 
 This Project focuses on predicting the likelihood of depression among students by applying different algorithms **"Machine Learning Algorithms"** & **"Deep Learning Algorithms"**.
 
-Essentially, I applied linear regression, support vector machine (SVM), artificial neural network, and convolutional neural network models to analyze the student data and predict the signs of depression.
+Essentially, I applied Logistic regression, support vector machine (SVM), artificial neural network, and convolutional neural network models to analyze the student data and predict the signs of depression.
 
 
 ### ✨ Features
