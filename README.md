@@ -9,7 +9,7 @@ Essentially, I applied linear regression, support vector machine (SVM), artifici
 
 ### ✨ Features
 - Data preprocessing and cleaning of the student dataset
-- Implementation of Linear Regression
+- Implementation of Logistic Regression
 - Implementation of Support Vector Machine (SVM)
 - Implementation of Artificial Neural Network (ANN)
 - Implementation of Convolutional Neural Network (CNN)
